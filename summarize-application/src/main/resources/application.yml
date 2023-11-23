@@ -1,0 +1,4 @@
+# 设置激活的环境
+spring:
+  profiles:
+    active: dev
